@@ -1,0 +1,6 @@
+Python
+Google Gemini 2.5 Flash API
+ChromaDB
+Gradio
+Retrieval-Augmented Generation (RAG)
+Vector Database
